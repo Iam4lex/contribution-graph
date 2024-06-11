@@ -9,6 +9,6 @@
 <a href="" title="Python"><img src="https://img.shields.io/badge/python-BE93D4?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <a href="" title="SQL"><img src="https://img.shields.io/badge/sql-ED8B00?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-mwangi&show_icons=true&theme=radical)    &nbsp;&nbsp;&nbsp;&nbsp;          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-mwangi&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-mwangi&show_icons=true&theme=radical)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-mwangi&show_icons=true&theme=transparent)
 
 
