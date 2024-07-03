@@ -1,5 +1,5 @@
-## Just a tech
- - welcome to my world
+## Just a tech.
+ - welcome to my world.
 <br>
 
 <p align="center">
