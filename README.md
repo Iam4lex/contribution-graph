@@ -1,4 +1,4 @@
-![Git Graph Hacking](banner.jpeg)
+![Git Graph Hacking](banner.png)
 
 # Hack the GitHub Contribution Graph
 
