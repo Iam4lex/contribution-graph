@@ -14,7 +14,7 @@ To run this script, you'll need the following:
 - A **branch** to push commits (default is `main`).
 
 ### Clone the Repository
-First, clone this repository to your local machine:
+First, clone this repository to your local machine in desktop:
 
 ```bash
 git clone https://github.com/Iam4lex/contribution-graph.git
