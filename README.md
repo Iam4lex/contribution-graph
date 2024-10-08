@@ -1,4 +1,3 @@
-
 ![Git Graph Hacking](banner.jpeg)
 
 # Hack the GitHub Contribution Graph
@@ -18,4 +17,24 @@ To run this script, you'll need the following:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Iam4lex/contribution-graph.git
+```
+
+### Navigate to the Cloned Repository
+After cloning, navigate into the repository directory:
+
+```bash
+cd Desktop
+```
+
+### Run the Script
+To run the script, use the command below:
+```bash
+python3 github.py
+```
+
+### Push the changes:
+```bash
+git push origin main
+```
+
